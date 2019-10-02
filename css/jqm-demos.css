@@ -7,7 +7,12 @@ body, .jqm-demos  {
 	background-color: #fefefe;
 	font-size: 1.05em;
 }
-
+.ui-header{
+ 
+background-color:red!important;
+ 
+color: white!important;
+}
 /* Header */
 .jqm-header {
 	background: #fff;
